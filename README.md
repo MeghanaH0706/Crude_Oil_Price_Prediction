@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+
 # Crude_oil_price_prediction
 Forecasting Project
 =======
-# Crude_Oil_Price_Prediction
-Forecasting Project
-
- <h><b>Crude Oil Price Prediction</b></h>
+ 
+<h><b>Crude Oil Price Prediction</b></h>
 <img align="center" src="https://staticimg.amarujala.com/assets/images/2022/02/24/750x506/crude-oil-price-on-new-record_1645677601.jpeg" width="900" height="300" /> 
  # Crude Oil Price Prediction Forecasting
 ________________________
